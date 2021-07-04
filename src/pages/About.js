@@ -91,7 +91,7 @@ const AboutPageStyles = styled.div`
       gap: 5rem;
     }
     .about__heading {
-      font-size: 2.8rem;
+      font-size: 2.5rem;
     }
     .about__info__heading {
       font-size: 3rem;
