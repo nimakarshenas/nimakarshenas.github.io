@@ -261,7 +261,10 @@ export default function About() {
                 Spent 4 years as an assisstant Maths tutor at the local First
                 Class Learning, working with children from the ages of 6-16.
               </p>
-              <AboutInfoItem title="2017" items={['World Challeng, Bolivia']} />
+              <AboutInfoItem
+                title="2017"
+                items={['World Challenge, Bolivia']}
+              />
               <p className="caption">
                 Fundraised £4,000 through numerous part-time jobs and free-lance
                 work for a 1 month trip to Bolivia with World Challenge. I acted
