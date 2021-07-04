@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.js": "/static/js/main.935602f2.chunk.js",
+    "main.js.map": "/static/js/main.935602f2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bcfff28e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bcfff28e.js.map",
+    "static/css/2.160fbdb3.chunk.css": "/static/css/2.160fbdb3.chunk.css",
+    "static/js/2.37c4ce02.chunk.js": "/static/js/2.37c4ce02.chunk.js",
+    "static/js/2.37c4ce02.chunk.js.map": "/static/js/2.37c4ce02.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.160fbdb3.chunk.css.map": "/static/css/2.160fbdb3.chunk.css.map",
+    "static/js/2.37c4ce02.chunk.js.LICENSE.txt": "/static/js/2.37c4ce02.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/Poppins-ExtraLight.94b768c0.ttf": "/static/media/Poppins-ExtraLight.94b768c0.ttf",
+    "static/media/Poppins-Regular.8081832f.ttf": "/static/media/Poppins-Regular.8081832f.ttf",
+    "static/media/Poppins-SemiBold.cce5625b.ttf": "/static/media/Poppins-SemiBold.cce5625b.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/asp.f82e648c.png": "/static/media/asp.f82e648c.png",
+    "static/media/deeplearning.79c4eccf.JPG": "/static/media/deeplearning.79c4eccf.JPG",
+    "static/media/eerover.b9919359.jpg": "/static/media/eerover.b9919359.jpg",
+    "static/media/greenwichtogether.049a3ed9.JPG": "/static/media/greenwichtogether.049a3ed9.JPG",
+    "static/media/hero.67448392.png": "/static/media/hero.67448392.png",
+    "static/media/main_cv.7c631e5a.pdf": "/static/media/main_cv.7c631e5a.pdf",
+    "static/media/map.7d98ba39.png": "/static/media/map.7d98ba39.png",
+    "static/media/nima.41570cb1.jpg": "/static/media/nima.41570cb1.jpg",
+    "static/media/pre_award_transcript.2fbee945.pdf": "/static/media/pre_award_transcript.2fbee945.pdf",
+    "static/media/projectImg.771236e1.png": "/static/media/projectImg.771236e1.png",
+    "static/media/rtdsp.62c0e207.JPG": "/static/media/rtdsp.62c0e207.JPG",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/static/media/social-media-arrow.f5e093ce.svg",
+    "static/media/year2proj.69a4524d.jpg": "/static/media/year2proj.69a4524d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcfff28e.js",
+    "static/css/2.160fbdb3.chunk.css",
+    "static/js/2.37c4ce02.chunk.js",
+    "static/js/main.935602f2.chunk.js"
+  ]
+}
