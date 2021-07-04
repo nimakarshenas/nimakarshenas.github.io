@@ -247,6 +247,37 @@ export default function About() {
                 Python.
               </p>
             </div>
+            <div className="about__info__item">
+              <h1 className="about__info__heading">
+                Volunteering and Extracurricular
+              </h1>
+              <AboutInfoItem
+                title="2014-2018"
+                items={[
+                  'Volunteering tutor at First Class Learning, Welwyn Garden City',
+                ]}
+              />
+              <p className="caption">
+                Spent 4 years as an assisstant Maths tutor at the local First
+                Class Learning, working with children from the ages of 6-16.
+              </p>
+              <AboutInfoItem title="2017" items={['World Challeng, Bolivia']} />
+              <p className="caption">
+                Fundraised £4,000 through numerous part-time jobs and free-lance
+                work for a 1 month trip to Bolivia with World Challenge. I acted
+                as the accountant for the trip, managing the expenditure of the
+                15 students on the trip in order tostay within budget.
+              </p>
+              <AboutInfoItem
+                title="2018-"
+                items={['Member of the Tennis Society, Imperial']}
+              />
+              <p className="caption">
+                An active member of the Tennis team of Imperials' Lawn Tennis
+                society simce First Year. I attended weekly training and regular
+                competitions throughout this time.
+              </p>
+            </div>
           </div>
         </div>
         <GradesSection />
