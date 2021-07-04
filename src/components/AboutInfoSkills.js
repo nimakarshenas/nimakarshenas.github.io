@@ -42,6 +42,9 @@ const AboutItemStyles = styled.div`
     .item__text {
       font-size: 1.2rem;
     }
+    .item {
+      margin-left: 0px;
+    }
   }
 `;
 
