@@ -4,9 +4,18 @@ import RTDSPimg from '../images/rtdsp.JPG';
 import Year2img from '../images/year2proj.jpg';
 import EEroverimg from '../images/eerover.jpg';
 import DeepLearningimg from '../images/deeplearning.JPG';
-import ASPimg from '../images/asp.png';
+import Philosophyimg from '../images/philosophy.png' 
 
 const projects = [
+  
+  {
+    id: uuidv4(),
+    name: 'A Collective Understanding of Happiness - Final Year Project',
+    desc:
+      'Designed and implemented a Deep Advantage Actor-Critic dual recommender system that aims to investigate the relationship between idea and experience in terms of our happiness.',
+    img: GreenwichTogether,
+    link: 'https://github.com/nimakarshenas/happiness_project',
+  },
   {
     id: uuidv4(),
     name: 'COVID-19 and better connectivity - 3rd Year Project',
