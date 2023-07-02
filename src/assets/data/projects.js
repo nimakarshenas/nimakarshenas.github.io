@@ -12,7 +12,7 @@ const projects = [
     id: uuidv4(),
     name: 'A Collective Understanding of Happiness - Final Year Project',
     desc:
-      'Designed and implemented a Deep Advantage Actor-Critic dual recommender system that aims to investigate the relationship between idea and experience in terms of our happiness.',
+      'Designed and implemented a Deep Advantage Actor-Critic dual recommender system that aims to investigate the relationship between idea and experience in terms of our collective experience of happiness.',
     img: Philosophyimg,
     link: 'https://github.com/nimakarshenas/happiness_project',
   },
