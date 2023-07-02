@@ -120,7 +120,7 @@ export default function About() {
               <h1 className="about__heading">ABOUT ME</h1>
               <div className="about__info">
                 <PText>
-                  Originally from Tehran, Iran, I moved to the UK with my family
+                  Originally from Tehran, I moved to the UK with my family
                   when I was very young. Mathematics, and its power to design
                   and dictate our world has been something that has always
                   fascinated me. With a passion for not just theory, but its
@@ -129,10 +129,10 @@ export default function About() {
                   can, using the skills that I have been privilaged to obtain,
                   to make the world a better place for all.
                   <br />
-                  <br />I have recently completed my 3rd Year of undergraduate
+                  <br />I have recently completed my Final Year of undergraduate
                   studies in the Electrical and Electronic Engineering
-                  department at Imperial College, and am about to begin a 1 Year
-                  industrial placement as a 3D audio engineer at PlayStation.
+                  department at Imperial College, the fourth year of which I completed 
+                  a 1 Year industrial placement as a 3D audio engineer at PlayStation.
                   Scroll down for a more detailed look at my background.
                 </PText>
               </div>
